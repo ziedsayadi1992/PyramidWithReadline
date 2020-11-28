@@ -10,5 +10,5 @@ the user then need to enter an input to the console.
 
 A pyramid will be created using the user input , and the output can be seen only in console
 
-Have fun creating seeing your number transform into a nice looking pyramid :D !!!
+Have fun seeing your number transform into a nice looking pyramid :D !!!
 
